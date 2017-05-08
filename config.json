@@ -1,0 +1,6 @@
+{
+"name": "websocket-chat",
+"version": "0.0.1",
+"description": "Chat application using websocket",
+"dependencies": {}
+}
